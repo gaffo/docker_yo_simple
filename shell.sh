@@ -1,3 +1,3 @@
 #! /bin/bash
 
-docker run -i -t docker_yo_simple /bin/bash
+docker run -i -t u1210_yo_simple /bin/bash
