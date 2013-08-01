@@ -10,3 +10,4 @@ add npmrc /home/me/.npmrc
 run chown me:me /home/me/.npmrc
 
 run su - me -c "npm install -g yo"
+run su - me -c "npm install -g generator-angular"
