@@ -1,0 +1,3 @@
+binroot = /home/me/.npm/.bin
+prefix = /home/me/.npm-packages
+root = /home/me/.npm
